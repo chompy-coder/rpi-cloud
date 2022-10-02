@@ -84,7 +84,7 @@ Configure the following environment variables within the balenaCloud dashboard t
 * `INFLUX_ORG` - your login email address used for InfluxDB cloud
 * `INFLUX_TOKEN` - the read/write token for your bucket
 
-##### Feeding to an external InfluxDB instance
+##### Feeding to external InfluxDB instance
 Configure the following environment variables within the balenaCloud dashboard to enable a feed to an external InfluxDB instance:
 * `INFLUXDB_EXTERNAL_URL` - the HTTP URL to your InfluxDB instance
 * `INFLUXDB_EXTERNAL_USERNAME` - the username for authentication to your InfluxDB instance
